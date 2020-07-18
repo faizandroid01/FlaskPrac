@@ -1,0 +1,7 @@
+# use Docker build at this level of directory
+
+sudo docker-compose build
+
+# then make the docker up 
+
+sudo docker-compose up
